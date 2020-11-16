@@ -5,6 +5,34 @@ class MainClass {
     
     Console.Write("Hi, Welcome to our MadLib!")
 
-    string title = "The Little Worm"
+    string title = "The Little Caterpillar Madlib"
   }
-} string story = Once upon a time, there lived a worm who dreamed of becoming a beautiful horse so that he could gallop in the grassy hills with his other horsey friends. One day he met a wizard frog who claimed he could grant his wish but with one condition. The worm had to travel from one side of the garden to the other to prove how determined he was on becoming a horse. The worm started on his journey and half way, a human approached from the house and started walking towards the worm. The worm stood proud and brave to hold his ground. The human then stood on him and the worm died. The end.
+
+  Console.WriteLine(title);
+
+  Console.Write("Enter a name: ");
+  string name = Console.ReadLine();
+
+  Console.Write("Enter an animal: ")
+  string animal1 = Console.ReadLine();
+
+  Console.Write("Enter a verb: );
+  string verb1 = Console.ReadLine;
+
+  Console.Write("Enter an adjective: ");
+  string adj1 = Console.ReadLine();
+
+  Console.Write("Enter another animal: ");
+  string animal2 = Console.ReadLine();
+
+  Console.Write("Enter a verb: ");
+  string verb2 = Console.ReadLine();
+
+
+  
+
+
+
+
+  
+} string story = $"Once upon a time, there lived a caterpillar named {name} who dreamed of becoming a beautiful {anima1} so that he could {verb1} in the {adj1} hills with his other {animal1} friends. One day he met a wizard {animal2} who claimed he could grant his wish but with one condition. The worm had to {verb2} from one side of the garden to the other to prove how determined he was on becoming a {animal1}. The worm started on his journey and "
