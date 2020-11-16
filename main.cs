@@ -35,4 +35,4 @@ class MainClass {
 
 
   
-} string story = $"Once upon a time, there lived a caterpillar named {name} who dreamed of becoming a beautiful {anima1} so that he could {verb1} in the {adj1} hills with his other {animal1} friends. One day he met a wizard {animal2} who claimed he could grant his wish but with one condition. The worm had to {verb2} from one side of the garden to the other to prove how determined he was on becoming a {animal1}. The worm started on his journey and "
+} string story = $"""Once upon a time, there lived a caterpillar named {name} who dreamed of becoming a beautiful {anima1} so that he could {verb1} in the {adj1} hills with his other {animal1} friends. One day he met a wizard {animal2} who claimed he could grant his wish but with one condition. The worm had to {verb2} from one side of the garden to the other to prove how determined he was on becoming a {animal1}. The worm started on his journey and """
